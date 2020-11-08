@@ -28,7 +28,7 @@ export default () => (
         <img src="/music-cat.jpg" alt="avatar with music-cat" height={60} />
       </div>
 
-      <h1 style={{ marginTop: 0 }}>Contact</h1>
+      <h1 style={{ marginTop: 0 }}>About</h1>
 
       <div className={contactStyles.name}>
         Taiki Yoshimura
