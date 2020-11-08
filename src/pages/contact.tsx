@@ -27,8 +27,8 @@ export default () => (
       <div className={contactStyles.avatar}>
         <img
           src="/music-cat.jpg"
-          height="85"
-          width="250"
+          height="100"
+          width="130"
           alt="avatar with music-cat"
         />
       </div>
