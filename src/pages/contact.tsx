@@ -25,7 +25,12 @@ export default () => (
     <Header titlePre="Contact" />
     <div className={sharedStyles.layout}>
       <div className={contactStyles.avatar}>
-        <img src="/music-cat.jpg" alt="avatar with music-cat" height={60} />
+        <img
+          src="/music-cat.jpg"
+          height="85"
+          width="250"
+          alt="avatar with music-cat"
+        />
       </div>
 
       <h1 style={{ marginTop: 0 }}>About</h1>
