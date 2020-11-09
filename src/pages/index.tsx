@@ -1,6 +1,6 @@
 import Header from '../components/header'
-import Features from '../components/features'
 import sharedStyles from '../styles/shared.module.css'
+import Link from 'next/link'
 
 export default () => (
   <>
@@ -13,8 +13,13 @@ export default () => (
         alt="Vercel + Notion"
       />
       <h1>My Notion Blog</h1>
-
-      <Features />
+      <h2>
+        <Link href={'/blog'}>
+          <a className={sharedStyles.layout}>
+            → Go to Article list!
+          </a>
+        </Link>
+      </h2>
 
       <div className="explanation">
       </div>
