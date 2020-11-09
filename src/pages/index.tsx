@@ -16,7 +16,7 @@ export default () => (
       <h2>
         <Link href={'/blog'}>
           <a className={sharedStyles.layout}>
-            → Go to the Article list!
+            → Go to the article list!
           </a>
         </Link>
       </h2>
