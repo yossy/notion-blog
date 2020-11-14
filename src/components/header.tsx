@@ -10,7 +10,7 @@ const navItems: { label: string; page?: string; link?: string }[] = [
   { label: 'About', page: '/contact' },
 ]
 
-const ogImageUrl = 'https://notion-blog.now.sh/music-cat.jpg'
+const ogImageUrl = 'https://notion-blog-beige-psi.vercel.app/music-cat.jpg'
 
 export default ({ titlePre = '' }) => {
   const { pathname } = useRouter()
