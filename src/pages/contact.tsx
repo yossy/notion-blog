@@ -11,7 +11,7 @@ const contacts = [
   {
     Comp: Twitter,
     alt: 'twitter icon',
-    link: 'https://twitter.com/0_1_yossy',
+    link: 'https://twitter.com/yossy_taa',
   },
   {
     Comp: GitHub,

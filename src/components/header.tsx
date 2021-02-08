@@ -25,7 +25,7 @@ export default ({ titlePre = '' }) => {
         />
         <meta name="og:title" content="My Notion Blog" />
         <meta property="og:image" content={ogImageUrl} />
-        <meta name="twitter:site" content="@0_1_yossy" />
+        <meta name="twitter:site" content="@yossy_taa" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image" content={ogImageUrl} />
       </Head>
