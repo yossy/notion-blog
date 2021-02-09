@@ -16,7 +16,7 @@ const contacts = [
   {
     Comp: GitHub,
     alt: 'github icon',
-    link: 'https://github.com/yossy0806',
+    link: 'https://github.com/yossy',
   },
 ]
 
